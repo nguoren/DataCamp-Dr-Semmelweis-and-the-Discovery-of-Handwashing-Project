@@ -3,7 +3,7 @@
 ## Project Description
 In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 - Reanalyse the medical data Dr Semmelweis collected
-- MY LINK: https://github.com/nguoren/DataCamp-Dr-Semmelweis-and-the-Discovery-of-Handwashing-Project/blob/main/DataCamp%20-%20Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing%20Project.ipynb
+- MY LINK: https://app.datacamp.com/workspace/w/147f8664-63c0-4807-b48a-0f237f4b3323
 
 ## Project Tasks
 1. Load in the dataset with the yearly number of deaths
